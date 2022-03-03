@@ -1,1 +1,1 @@
-# Advanced-Digital-Signal-Processing-and-Multimedia-Mining-Training
+# Advanced-Multimedia-Mining-Training
