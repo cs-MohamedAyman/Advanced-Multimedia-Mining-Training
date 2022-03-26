@@ -1,1 +1,1 @@
-# Advanced-Multimedia-Mining-Training
+# Advanced Multimedia Mining Training
